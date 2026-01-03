@@ -2,7 +2,7 @@
 // NOTE: The generators in this file return JSON-encoded strings for each command.
 // The decoding implementation (Android/FTC) expects an outer JSON array of these
 // strings. Keep keys/names consistent with the decoder here:
-// https://github.com/3DRoboticsDuluth/11206-2025-Decode.git  <-- review command schema there.
+// review command schema in your main repo.
 Blockly.Blocks['start'] = {
   init: function() {
     this.appendDummyInput().appendField("▶ Start");
