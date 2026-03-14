@@ -1,6 +1,8 @@
-<h1> Quanomous Quickstart </h1>  
+<h1> Quanomous Quickstart </h1>
 
-Quanomous is an autonomous generation and execution system designed for FTC robots. It allows teams to generate autonomous routines visually using the Quanomous web tool, then run those routines directly on their robot.
+Quanomous is a configurable, QR code based, autonomous generation and execution system designed for FTC robots. It allows for teams to generate autonomous routines to compliment their allinace partners, allowing each team to create an auto that enables your alliance to do the best. It also allows teams to generate autonomous routines visually using the Quanomous web tool, then run those routines directly on their robot.
+
+<img src="https://i.postimg.cc/76YzLQ5m/Quanomous_Blocks.png" alt="Quanomous Blocks" width="250">
 
 The system works by exporting autonomous scripts as compressed strings that are decoded on the robot and executed sequentially.
 
